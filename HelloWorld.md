@@ -1,5 +1,5 @@
 ---
-title: "HelloWorld.md"
+title: "HelloWorld"
 author: "Manish Kumar"
 date: "07/08/2024"
 output: pdf_document
@@ -8,10 +8,6 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-"## This is a markdown file"
-
-"Test for the file"
 
 ## R Markdown
 
